@@ -22,6 +22,6 @@ async def salvucommands(ctx):
 async def aboutsalvuNasDaily(ctx):
     await ctx.send("This is Salvu. His home is an island, where he and his two cousins live! His family moved here for a job that no longer exists, and have lived there for more than 66 years! There are many tourists that he can hang out with, but can also spend time alone, as they are all gone by 5pm! In his tiny house, he has mail, electricity, TVs and internet. His internet is faster than yours! He has recieved the highest honour in Malta because he takes care of his island. Salvu's house has everything it needs, except noise... Check out this video to learn about Salvu:  https://www.facebook.com/watch/?v=1018363788315773")
     print("Message sent.")
-client.run("")
 
-//This is the part where I put the bot token.
+client.run("")
+#This is the part where I put the bot token.
