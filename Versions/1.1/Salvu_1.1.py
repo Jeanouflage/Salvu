@@ -112,4 +112,4 @@ async def salvuroast(ctx):
         "Error: Salvu cannot roast you because you are already burnt."
     ]
     await ctx.send(random.choice(roasts))
-client.run("MTA2NzUyNjA2NDM1Nzc4MTU0NQ.G8Y-mP.7oeoHWVfS0g3SC4rbiqcDJ5lBQHJrHTEsFeFfo")
+client.run("")
